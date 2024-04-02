@@ -1,0 +1,128 @@
+.how-section1 {
+    margin-top: -15%;
+    padding: 10%;
+}
+
+.how-section1 h4 {
+    color: #ffa500;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.how-section1 .subheading {
+    color: #3931af;
+    font-size: 20px;
+}
+
+.how-section1 .row {
+    margin-top: 10%;
+}
+
+.how-img {
+    text-align: center;
+}
+
+.how-img img {
+    width: 40%;
+}
+
+@media (max-width: 768px) {
+
+    .col-md-6 h4,
+    .col-md-6 p {
+        font-size: 1rem;
+        /* Adjust font size for smaller screens */
+    }
+}
+
+.expert-box {
+    /* New class for overall element */
+    display: flex;
+    /* Use flexbox for layout */
+    flex-direction: column;
+    /* Stack elements vertically on small screens */
+    background-color: #f3e7e9;
+    /* Lighter background */
+    border-radius: 10px;
+    /* Consistent border radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    /* Subtler shadow */
+    margin: 30px auto;
+    /* Centered margin, responsive */
+    transition: all 0.3s ease-in-out;
+    /* Smooth transition */
+    max-width: 700px;
+    /* Limit width on larger screens (optional) */
+}
+
+.expert-box:hover {
+    /* Hover effect (optional) */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.expert-image {
+    /* New class for image container */
+    flex: 0 0 200px;
+    /* Fixed width for image on larger screens */
+    margin: 20px auto;
+    /* Centered margin */
+    border-radius: 50%;
+    /* Consistent border radius */
+    overflow: hidden;
+    /* Prevent image overflow */
+}
+
+.expert-image img {
+    width: 100%;
+    /* Ensure image scales within container */
+    height: 100%;
+    /* Maintain aspect ratio */
+    object-fit: cover;
+    /* Crop image to fit container */
+}
+
+.expert-content {
+    /* New class for content area */
+    flex: 1;
+    /* Flexible space for content */
+    padding: 20px;
+    /* Add padding for better readability */
+    color: #333;
+    /* Darker text color */
+}
+
+.expert-content h4 {
+    /* Consistent heading styles */
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+    /* Adjust font size for readability */
+}
+
+.expert-content p {
+    /* Readable paragraph styles */
+    line-height: 1.5;
+    font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+
+    /* Responsive adjustments for smaller screens */
+    .expert-box {
+        flex-direction: row;
+        /* Switch to row layout for better use of space */
+    }
+
+    .expert-image {
+        flex: 0 0 150px;
+        /* Adjust image size for smaller screens */
+    }
+
+    .expert-content {
+        font-size: 0.9rem;
+        /* Adjust font size for smaller screens */
+    }
+}
+
+
+

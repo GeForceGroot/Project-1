@@ -64,7 +64,7 @@ const Benifits = () => {
                     </div>
                 </div>
             </section>
-            <hr style={{ marginLeft: "150px", marginRight: "150px", border: "2px solid lightblue", backgroundImage: 'linear-gradient(to right, #fa709a 0%, #fee140 100%)' }} />
+            {/* <hr style={{ marginLeft: "150px", marginRight: "150px", border: "2px solid lightblue", backgroundImage: 'linear-gradient(to right, #fa709a 0%, #fee140 100%)' }} /> */}
         </>
     )
 }
