@@ -10,17 +10,17 @@ const AcademicImpact = () => {
                     <img src="https://cdn-icons-png.flaticon.com/128/3281/3281323.png" width={'50px'} height={'50px'} style={{ marginRight: '25px' }} alt="" />
                 </div>
                 <section className='row'>
-                    <section className="col-sm ball" >
+                    <section className="ball" >
                         <p style={{ marginTop: '50px', marginLeft:"20px", marginRight:"20px",fontSize: "25px", fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>1571</p>
                         <p style={{ marginBottom: '25px', marginLeft:"20px", marginRight:"20px",fontSize: "25px", fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Projects Completed</p>
                         <div className="shadow" style={{ marginTop: '50px', marginLeft: '42px' }}></div>
                     </section>
-                    <section className="col-sm ball" >
+                    <section className="ball" >
                         <p style={{ marginTop: '50px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>1042</p>
                         <p style={{ marginBottom: '25px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Happy Students</p>
                         <div className="shadow" style={{ marginTop: '50px', marginLeft: '42px' }}></div>
                     </section>
-                    <section className="col-sm ball">
+                    <section className="ball">
                         <p style={{ marginTop: '50px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>15</p>
                         <p style={{ marginBottom: '25px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Years Experience</p>
                         <div className="shadow" style={{ marginTop: '50px', marginLeft: '42px' }}></div>
