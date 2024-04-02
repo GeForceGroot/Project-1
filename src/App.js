@@ -4,6 +4,7 @@ import AssigementProvideType from './components/AssigementProvideType';
 import Benifits from './components/Benifits';
 import Carousel from './components/Carousel';
 import Feedback from './components/Feedback';
+import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import Writer from './components/Writer';
 
@@ -17,6 +18,7 @@ function App() {
     <AssigementProvideType/>
     <Feedback/>
     <AcademicImpact/>
+    <Footer/>
     </>
   );
 }
