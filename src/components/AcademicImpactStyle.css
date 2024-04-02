@@ -32,7 +32,9 @@
   #ball3 {
     margin-right: 200px;
   }
-
+  #para{
+    font-size: 25px;
+  }
 
   @keyframes float {
     0% {
@@ -56,6 +58,8 @@
     animation: expand 4s infinite;
     position: absolute;
     border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 42px;
   }
 
   @keyframes expand {
@@ -114,6 +118,8 @@
       height: 20px;
       top: 78%;
       animation: expand 5s infinite;
+      margin-top: 25px;
+      margin-left: 30px;
     }
 
     @keyframes float {
