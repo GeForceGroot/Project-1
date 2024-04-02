@@ -73,8 +73,31 @@
       transform: scale(1);
     }
   }
+  @media (min-width: 701px) and (max-width: 940px){
+    .hwll {
+      display: flex;
+      margin-top: 60px;
+    }
+  
+    #ball1 {
+      margin-left: 100px;
+    }
+  
+    #ball2 {
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+  
+    #ball3 {
+      margin-right: 100px;
+    }
+    #para{
+      font-size: 22px;
+    }
+  }
 
-  @media only screen and (max-width: 500px) {
+
+  @media only screen and (max-width: 700px) {
     .hwll {
       display: block;
       margin-top: 30px;
