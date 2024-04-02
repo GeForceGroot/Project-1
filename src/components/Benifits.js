@@ -3,7 +3,7 @@ import './benifitsStyle.css'
 const Benifits = () => {
     return (
         <>
-            <section className='prefer' style={{ display: 'block', marginTop: '50px' }}>
+            <section className='prefer' id='prefer1' style={{ display: 'block'}}>
                 <div className="text-center section-heading">
                     <div className="heading-icons" style={{ display: 'flex', justifyContent: 'center' }}>
                         <div className="icon1">
