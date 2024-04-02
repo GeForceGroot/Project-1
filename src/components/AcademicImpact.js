@@ -11,18 +11,18 @@ const AcademicImpact = () => {
                 </div>
                 <section className='hwll'>
                     <section className="ball" id='ball1' >
-                        <p style={{ marginTop: '50px', marginLeft:"20px", marginRight:"20px",fontSize: "25px", fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>1571</p>
-                        <p style={{ marginBottom: '25px', marginLeft:"20px", marginRight:"20px",fontSize: "25px", fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Projects Completed</p>
+                        <p id='para' style={{ marginTop: '50px', marginLeft:"20px", marginRight:"20px",fontSize: "25px", fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>1571</p>
+                        <p id='para'  style={{ marginBottom: '25px', marginLeft:"20px", marginRight:"20px",fontSize: "25px", fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Projects Completed</p>
                         <div className="shadow" style={{ marginTop: '50px', marginLeft: '42px' }}></div>
                     </section>
                     <section className="ball" id='ball2'>
-                        <p style={{ marginTop: '50px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>1042</p>
-                        <p style={{ marginBottom: '25px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Happy Students</p>
+                        <p  id='para' style={{ marginTop: '50px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>1042</p>
+                        <p  id='para' style={{ marginBottom: '25px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Happy Students</p>
                         <div className="shadow" style={{ marginTop: '50px', marginLeft: '42px' }}></div>
                     </section>
                     <section className="ball" id='ball3'>
-                        <p style={{ marginTop: '50px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>15</p>
-                        <p style={{ marginBottom: '25px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Years Experience</p>
+                        <p  id='para' style={{ marginTop: '50px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>15</p>
+                        <p  id='para' style={{ marginBottom: '25px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Years Experience</p>
                         <div className="shadow" style={{ marginTop: '50px', marginLeft: '42px' }}></div>
                     </section>
                 </section>

@@ -74,7 +74,7 @@
     .hwll {
       display: block;
       margin-top: 30px;
-      justify-content: center;
+      margin-left: 135px;
     }
 
     #ball1 {
@@ -89,7 +89,7 @@
     #ball3 {
       margin-right: 0px;
     }
-    p{
+    #para{
       font-size: 18px;
     }
 
