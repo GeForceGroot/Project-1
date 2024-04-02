@@ -92,29 +92,15 @@
       margin-right: 100px;
     }
     #para{
-      font-size: 22px;
+      font-size: 23px;
     }
-  }
-  @media (min-width: 701px) and (max-width: 1080px){
-    .hwll {
-      display: flex;
-      margin-top: 60px;
-    }
-  
-    #ball1 {
-      margin-left: 100px;
-    }
-  
-    #ball2 {
-      margin-left: 100px;
-      margin-right: 100px;
-    }
-  
-    #ball3 {
-      margin-right: 100px;
-    }
-    #para{
-      font-size: 22px;
+    .shadow {
+      width: 90px;
+      height: 20px;
+      top: 78%;
+      animation: expand 5s infinite;
+      margin-top: 25px;
+      margin-left: 10px;
     }
   }
   @media (min-width: 451px) and (max-width: 700px){
@@ -137,7 +123,15 @@
       margin-right: 0px;
     }
     #para{
-      font-size: 18px;
+      font-size: 21px;
+    }
+    .shadow {
+      width: 90px;
+      height: 20px;
+      top: 78%;
+      animation: expand 5s infinite;
+      margin-top: 25px;
+      margin-left: 75px;
     }
   }
 
