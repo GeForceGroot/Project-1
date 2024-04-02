@@ -19,7 +19,7 @@ const Writer = () => {
                     <p className="text-muted">At Smart Study Assist, we’re committed to your academic success. With certified writers, 24/7 support, and guarantees on quality and punctuality, we’re here to help you excel in every assignment.</p>
                 </div>
             </div>
-            <hr style={{ marginLeft: "150px", marginRight: "150px", border: "2px solid lightblue" }} />
+            {/* <hr style={{ marginLeft: "150px", marginRight: "150px", border: "2px solid lightblue" }} /> */}
         </>
     )
 }

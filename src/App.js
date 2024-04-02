@@ -1,4 +1,5 @@
 import './App.css';
+import AssigementProvideType from './components/AssigementProvideType';
 import Benifits from './components/Benifits';
 import Carousel from './components/Carousel';
 import Navbar from './components/Navbar';
@@ -11,6 +12,7 @@ function App() {
     <Carousel/>
     <Benifits/>
     <Writer/>
+    <AssigementProvideType/>
     </>
   );
 }
