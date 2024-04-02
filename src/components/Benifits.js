@@ -18,7 +18,7 @@ const Benifits = () => {
                     <h2 className="heading" style={{ marginTop: "10px" }}>📖 We Do Assignments Online &amp; Offer Amazing Perks !</h2>
                 </div>
             </section>
-            <section className='prefer' style={{ margin: '60px' }}>
+            <section className='prefer' id='prefer2' >
                 <div className="row" style={{ margin: '60px' }}>
                     <div className="col-sm one-third item">
                         <div className="hex"></div>
