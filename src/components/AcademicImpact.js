@@ -13,17 +13,17 @@ const AcademicImpact = () => {
                     <section className="ball" style={{ marginLeft: '200px' }}>
                         <p style={{ marginTop: '50px', marginLeft:"20px", marginRight:"20px",fontSize: "25px", fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>1571</p>
                         <p style={{ marginBottom: '25px', marginLeft:"20px", marginRight:"20px",fontSize: "25px", fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Projects Completed</p>
-                        <div className="shadow" style={{ marginTop: '50px', marginLeft: '5px' }}></div>
+                        <div className="shadow" style={{ marginTop: '50px', marginLeft: '70px' }}></div>
                     </section>
                     <section className="ball" style={{ marginLeft: '200px', marginRight: '200px' }}>
                         <p style={{ marginTop: '50px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>1042</p>
                         <p style={{ marginBottom: '25px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Happy Students</p>
-                        <div className="shadow" style={{ marginTop: '50px', marginLeft: '5px' }}></div>
+                        <div className="shadow" style={{ marginTop: '50px', marginLeft: '70px' }}></div>
                     </section>
                     <section className="ball" style={{ marginRight: '200px' }}>
                         <p style={{ marginTop: '50px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>15</p>
                         <p style={{ marginBottom: '25px', fontSize: "25px", marginLeft:"20px", marginRight:"20px",fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Years Experience</p>
-                        <div className="shadow" style={{ marginTop: '50px', marginLeft: '5px' }}></div>
+                        <div className="shadow" style={{ marginTop: '50px', marginLeft: '70px' }}></div>
                     </section>
                 </section>
             </section>
