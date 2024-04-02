@@ -1,5 +1,6 @@
 import React from 'react'
-import './style.css'
+// import './style.css'
+import './AssigementProvideType.css'
 import { useState } from 'react'
 
 const AssigementProvideType = () => {
