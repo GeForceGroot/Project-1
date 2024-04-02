@@ -9,7 +9,7 @@ const AcademicImpact = () => {
                     <h1 style={{ padding: '7px', color: 'rgb(170 51 170 / 82%)' }}>Academic Impact</h1>
                     <img src="https://cdn-icons-png.flaticon.com/128/3281/3281323.png" width={'50px'} height={'50px'} style={{ marginRight: '25px' }} alt="" />
                 </div>
-                <section className='row'>
+                <section className='hwll'>
                     <section className="ball" >
                         <p style={{ marginTop: '50px', marginLeft:"20px", marginRight:"20px",fontSize: "25px", fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>1571</p>
                         <p style={{ marginBottom: '25px', marginLeft:"20px", marginRight:"20px",fontSize: "25px", fontWeight: 'bold', color: "rgb(115 10 115 / 89%)" }}>Projects Completed</p>
